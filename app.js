@@ -93,7 +93,7 @@ function assignData(yourName, herName) {
         {
             title       :   'About Developer',
             questions   :   ['Who Is Your Owner', 'Your Owner', 'Who Makes You', 'Who Is Your Developer'],
-            ans         :   ['Mafiaonespot', 'Somu', 'Somnath']
+            ans         :   ['Somnath Pati']
         }
     ]
 }
